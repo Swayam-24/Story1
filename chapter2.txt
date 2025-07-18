@@ -1,1 +1,2 @@
-console.log("Hello Everyone this is Chapter 2 . Hope you like this file.");
+//console.log("Hello Everyone this is Chapter 2 . Hope you like this file.");
+It was the age of aliens , it was the age of humans.
